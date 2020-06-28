@@ -6,7 +6,7 @@ namespace PromotionEngine.App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Test given for promotion engine by Prashant Verma");
         }
     }
 }
